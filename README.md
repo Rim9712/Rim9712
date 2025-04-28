@@ -1,12 +1,6 @@
-## Hi there 👋
+Hello World, I'm Rim 👋
 
-<!--
-**Rim9712/Rim9712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-# Hello World, I'm Rim 👋
-
-## Analytical professionnel, Sport & Music Enthusiast Always
+### Analytical professionnel, Sport & Music Enthusiast Always
 
 I've always loved exploring new places and trying different things. Over the years, I've practiced taekwondo, swimming, handball, and running before falling in love with catching waves whenever I'm near a coast 🏄‍♀️. When I'm not diving into data, I'm usually hiking, playing oud, or hunting for new songs, secretly dreaming of a future career as a DJ. I’d love to take on an Ironman competition one day (if my knees ever decide to cooperate with this plan).
 
@@ -19,5 +13,4 @@ I'm driven by understanding market dynamics and making decisions backed by data 
 💻 Python | SQL | R | Tableau | VBA | SAS | Git
 🎓 ESCP Business School | HEC Paris | Université Mohammed VI Polytechnique
 
-Looking to collaborate on projects at the intersection of finance, machine learning, and business strategy!
--->
+Looking to collaborate on projects at the intersection of finance, machine learning, and business strategy! 
